@@ -1,0 +1,26 @@
+{
+  "name": "jsscriptloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/TychoA/JsScriptLoader"
+  },
+  "author": "tychoatsma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node": "^8.3.0",
+    "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-sass": "^1.0.0"
+  }
+}
